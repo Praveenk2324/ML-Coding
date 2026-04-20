@@ -1,2 +1,3 @@
 https://youtu.be/r1bquDz5GGA?si=bGlGtfjOq1vE1-0b - Pytoch in 1 Hour
 https://0byte.io/articles/pytorch_introduction.html - Pytoch Introduction
+https://youtu.be/E0bwEAWmVEM?si=i4aJPkMyqMYpfJ50 - Learn PyTorch in 5 Projects – Tutorial
