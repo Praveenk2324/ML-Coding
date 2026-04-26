@@ -3,3 +3,4 @@ my_mnist.mmap
 datasets/
 yolov9m.pt
 runs/
+models/
