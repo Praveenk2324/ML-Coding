@@ -45,6 +45,8 @@ for episode in range(num_episodes):
 # Close the training environment before opening the visual one
 env.close()
 
+
+
 # Re-initialize for visual rendering
 env = gym.make('Taxi-v4', render_mode='human')
 
