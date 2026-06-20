@@ -1,0 +1,15 @@
+LangChain is a framework for developing applications powered by large language models (LLMs).
+It simplifies the process of building LLM-powered applications by providing modular abstractions.
+Key components of LangChain include:
+1. Model I/O: Formatting prompts, calling models, and parsing output.
+2. Retrieval: Loading, transforming, and indexing documents, and retrieving relevant context.
+3. Chains: Combining components to solve specific tasks (e.g., Q&A, summarization).
+4. Agents: Allowing LLMs to decide which tools to call dynamically based on input.
+
+Ollama is a tool that allows you to run large language models locally on your machine.
+It packages model weights, configuration, and datasets into a single Modelfile.
+With Ollama, developers can run models like Llama, Gemma, and Mistral locally, ensuring privacy and offline functionality.
+It is easy to integrate Ollama with LangChain using the langchain-ollama integration package.
+
+Retrieval-Augmented Generation (RAG) is a technique that enhances LLM responses by fetching relevant context from a external knowledge base before generating an answer.
+This helps prevent model hallucinations and ensures answers are grounded in up-to-date, factual information.
