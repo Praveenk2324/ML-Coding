@@ -1,5 +1,0 @@
-# Ignore everything
-*
-
-# EXCEPT the requirements file we need for the build
-!requirements.txt
